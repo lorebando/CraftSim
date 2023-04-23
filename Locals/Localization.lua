@@ -19,7 +19,7 @@ function CraftSim.LOCAL:Init()
     elseif currentLocale == CraftSim.CONST.LOCALES.FR then
         CraftSim.LOCAL.LOCAL = CraftSim.LOCAL_FR
     elseif currentLocale == CraftSim.CONST.LOCALES.MX then
-        CraftSim.LOCAL.LOCAL = CraftSim.LOCAL_ES
+        CraftSim.LOCAL.LOCAL = CraftSim.LOCAL_MX
     elseif currentLocale == CraftSim.CONST.LOCALES.KO then
         CraftSim.LOCAL.LOCAL = CraftSim.LOCAL_KO
     elseif currentLocale == CraftSim.CONST.LOCALES.TW then
